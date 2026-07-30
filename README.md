@@ -1,6 +1,8 @@
 # Lab2-TeoriaCompu
 
-Laboratorio 2 del curso **Teoría de la Computación**.
+Laboratorio 2 
+Giancarlo Sagastume - 24278 
+
 
 ## Problema 1
 
