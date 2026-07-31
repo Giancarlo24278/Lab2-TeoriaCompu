@@ -23,7 +23,7 @@ El programa:
 
 ### Video
 
-> Colocar aquí el enlace del video.
+https://youtu.be/0pGZDKimtZo
 
 ---
 
@@ -45,4 +45,4 @@ La salida del programa muestra:
 
 ### Video
 
-> Colocar aquí el enlace del video.
+https://youtu.be/0pGZDKimtZo (Es el mismo video que el priemro)
