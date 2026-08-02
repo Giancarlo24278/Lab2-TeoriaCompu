@@ -8,7 +8,16 @@ Giancarlo Sagastume - 24278
 
 Problema resuelto en el cuaderno.
 
----
+<img width="1164" height="1440" alt="image" src="https://github.com/user-attachments/assets/c3094854-7c8a-48f4-8bfb-057692386d0a" />
+
+<img width="1161" height="1447" alt="image" src="https://github.com/user-attachments/assets/c832e6d6-b9d0-4512-8b20-a8402f087704" />
+
+<img width="1156" height="1347" alt="image" src="https://github.com/user-attachments/assets/66832d5a-d684-4876-a5c5-c5dce9e6c1e8" />
+
+<img width="1138" height="1468" alt="image" src="https://github.com/user-attachments/assets/d7a0b74a-8445-4e05-a9e2-63476044074e" />
+
+<img width="1180" height="1432" alt="image" src="https://github.com/user-attachments/assets/64d5ca1f-a117-4c0c-9055-a7d510467835" />
+
 
 ## Problema 2
 
